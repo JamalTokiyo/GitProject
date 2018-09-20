@@ -1,0 +1,18 @@
+
+
+div{
+	border: 1px solid black;
+	height: 70px;
+	padding-left: 50%;
+	font-size: 20px;
+	color: darkgreen;
+
+	padding-left: 100px
+
+}
+
+#d{
+border: 2px solid darkgreen;
+height: 100px;
+text-align: center;
+}
